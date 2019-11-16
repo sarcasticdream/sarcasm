@@ -2,23 +2,17 @@
 ! Expires: 8 hours
 ! Version: 2
 
+! Youtube
 www.youtube.com###logo-icon-container
-discordapp.com##aside
+! Discord
 ||cdn.discordapp.com/attachments/320877976663359489/596031356547629116/Warframe_Saryn_AF_Hoverstate_640x360.mp4$media
 ||cdn.discordapp.com/attachments/320877976663359489/596031337480061012/Warframe_Saryn_AF_Backsplash_1920x1080.png?width=464&height=261$image
 ||discordapp.com/assets/de14fab6de78b0fc2f679eb74b735151.svg$image
-discordapp.com##.coloredBackground-37Z6Gv.padded-2uAgVW
-discordapp.com##.gdprWrapper-33M2Mg.wrapper-3UweLa
-discordapp.com##.image-3g0L65.imageWrapper-2p5ogY
 ||cdn.discordapp.com/attachments/320877976663359489/596031356547629116/Warframe_Saryn_AF_Hoverstate_640x360.mp4$media
 ||discordapp.com/assets/c486dc65ce2877eeb18e4c39bb49507a.svg$image
-discordapp.com##.layout-1cQCv2.systemPad-3UxEGl.firefoxFixScrollFlex-cnI2ix.scroller-2FKFPG
-discordapp.com##.scroller-9moviB.systemPad-3UxEGl.momentum-2CXCBH.scrollerStore-390omS.firefoxFixScrollFlex-cnI2ix.scroller-2FKFPG
-discordapp.com##a.clickable-1JJAn8.container-2Pjhx-.channel-2QD9_O:nth-of-type(3) > .layout-2DM8Md > .content-3QAtGj > .nameAndDecorators-5FJ2dg
-discordapp.com##a.clickable-1JJAn8.container-2Pjhx-.channel-2QD9_O:nth-of-type(3) > .layout-2DM8Md
-discordapp.com##a.clickable-1JJAn8.container-2Pjhx-.channel-2QD9_O:nth-of-type(1) > .layout-2DM8Md
-discordapp.com##.selected-aXhQR6.container-2Pjhx-.channel-2QD9_O > .layout-2DM8Md
-discordapp.com##a.clickable-1JJAn8.container-2Pjhx-.channel-2QD9_O:nth-of-type(2) > .layout-2DM8Md
+discordapp.com###app-mount > div.app-19_DXt:nth-child(3) > div.app-2rEoOp > div.layers-3iHuyZ.layers-3q14ss:nth-child(2) > div.layer-3QrUeG.baseLayer-35bLyl > div.container-2lgZY8 > div.base-3dtUhz:last-child > div.content-98HsJk:last-child > div.sidebar-2K8pFh.hasNotice-1XRy4h:first-child > div.privateChannels-1nO12o:first-child > div.scrollerWrap-2lJEkd.firefoxFixScrollFlex-cnI2ix.scrollerThemed-2oenus.themeGhostHairline-DBD-2d.scrollerFade-1Ijw5y:last-child > div.scroller-2FKFPG.firefoxFixScrollFlex-cnI2ix.systemPad-3UxEGl.scroller-1JbKMe > span > a.channel-2QD9_O.container-2Pjhx-.clickable-1JJAn8:first-child > div.layout-2DM8Md
+discordapp.com###app-mount > div.app-19_DXt:nth-child(3) > div.app-2rEoOp > div.layers-3iHuyZ.layers-3q14ss:nth-child(2) > div.layer-3QrUeG.baseLayer-35bLyl > div.container-2lgZY8 > div.base-3dtUhz:last-child > div.content-98HsJk:last-child > div.sidebar-2K8pFh.hasNotice-1XRy4h:first-child > div.privateChannels-1nO12o:first-child > div.scrollerWrap-2lJEkd.firefoxFixScrollFlex-cnI2ix.scrollerThemed-2oenus.themeGhostHairline-DBD-2d.scrollerFade-1Ijw5y:last-child > div.scroller-2FKFPG.firefoxFixScrollFlex-cnI2ix.systemPad-3UxEGl.scroller-1JbKMe > span > a.channel-2QD9_O.container-2Pjhx-.clickable-1JJAn8:nth-child(2) > div.layout-2DM8Md
+discordapp.com###app-mount > div.app-19_DXt:nth-child(3) > div.app-2rEoOp > div.layers-3iHuyZ.layers-3q14ss:nth-child(2) > div.layer-3QrUeG.baseLayer-35bLyl > div.container-2lgZY8 > div.base-3dtUhz:last-child > div.content-98HsJk:last-child > div.sidebar-2K8pFh.hasNotice-1XRy4h:first-child > div.privateChannels-1nO12o:first-child > div.scrollerWrap-2lJEkd.firefoxFixScrollFlex-cnI2ix.scrollerThemed-2oenus.themeGhostHairline-DBD-2d.scrollerFade-1Ijw5y:last-child > div.scroller-2FKFPG.firefoxFixScrollFlex-cnI2ix.systemPad-3UxEGl.scroller-1JbKMe > span > a.channel-2QD9_O.container-2Pjhx-.clickable-1JJAn8:nth-child(3) > div.layout-2DM8Md
 
 0.0.0.0 example.com
 0.0.0.0 doubleclick.net
