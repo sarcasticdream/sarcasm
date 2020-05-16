@@ -26,6 +26,6 @@ while true; do
     sleep 2
 done &
 nitrogen --restore &
-xrandr -s 1920x1080 &
+xrandr -s 1920x1080 &  # Generic screen resolution pick the one you need
 exec dwm
 """
